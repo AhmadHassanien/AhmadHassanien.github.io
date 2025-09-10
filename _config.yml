@@ -23,10 +23,10 @@ repository               : "AhmadHassanien/AhmadHassanien.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic informationhttps://github.com/AhmadHassanien/
-  avatar           : "profil.png"
+  avatar           : "_MG_5516.png"
   name             : "Ahmad Hassanien"
   pronouns         : # example: "she/her"  
-  bio              : "Master of Neurorobotics 19.03"
+  bio              : "Master of Neurorobotics 19.10"
   location         : "Chemnitz, Germany"
   employer         : #"Red Brick University"
   uri              : # URL
