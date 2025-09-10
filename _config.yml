@@ -23,7 +23,7 @@ repository               : "ahmadhassanien/ahmadhassanien.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/_MG_5516.jpg"
+  avatar           : "_MG_5516.jpg"
   name             : "Ahmad Hassanien"
   pronouns         : # example: "she/her"  
   bio              : "Neurorobotics"
